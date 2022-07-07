@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GreenBeret"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GreenBeret">
+				<Option output="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/GreenBeret" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 GreenBeret"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GreenBeret/fast">
+				<Option output="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/GreenBeret" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 GreenBeret/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Characters/Enemy.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Characters/Enemy.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Characters/Hero.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Characters/Hero.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/Board.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/Board.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/Character.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/Character.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/GameManager.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/GameManager.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/GameStateControler.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/SFMLControler.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/SFMLControler.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/SFMLView.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/Engine/SFMLView.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/Game/GameControler.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/Game/GameControler.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/GameOver/GameOverControler.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/GameOver/GameOverControler.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/LevelOptions/LevelOptionsControler.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/LevelOptions/LevelOptionsControler.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/MainMenu/MainMenuControler.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/MainMenu/MainMenuControler.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/Pauza/PauzaControler.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/States/Pauza/PauzaControler.h">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/main.cpp">
+			<Option target="GreenBeret"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/media/karolski/54A29E9DA29E82E2/karol/CLionProjects/GreenBeret/../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
